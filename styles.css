@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  color: whitesmoke;
+  background-color: #2F3437;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+}
+
+section {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.img-cotainer {
+  padding: 0 2rem;
+}
+
+img {
+  width: 250px;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+}
